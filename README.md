@@ -18,10 +18,10 @@ Tienes que dispararle a cada monstruo 5 veces para matarlo, asegurate de que no 
 
 ## Installation
 
-Clone the repository to your local machine:
-you can use:
+Clone the repository to your local machine, you can use:
 
 git clone https://github.com/JazminADiaz/Archer_vs_monsters.git
+
 cd Archer_vs_monsters
 
 Remember this is a python program so make sure you have it.
